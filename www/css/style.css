@@ -1,0 +1,7 @@
+ul li:nth-child(odd){
+    background-color: rgba(196, 192, 192, 0.856)
+}
+
+ul li.closed{
+    background-color:rgba(177, 4, 4, 0.774);
+}
